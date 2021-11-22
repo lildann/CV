@@ -32,7 +32,7 @@ The bootcamp has enabled me to switch from a Facilitator to a Maker. Driven by c
 
 | Name                         | Description       | Tech              | Timeframe |
 | ---------------------------- | ----------------- | ----------------- | ----------|
-| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp to make football more accessible to everyone outside of its traditional audience. | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS| 10-day final project at Makers in group of 4|
+| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make finding and playing football games more accessible to everyone outside of its traditional audience | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS| 10-day final project at Makers in group of 4|
 | **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to write and store notes. | Vanilla JavaScript, Emoji API, HTML, CSS, custom-built testing framework in JS from scratch | 5-day project in a group of 3 |
 | **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/). | Ruby on Rails, Rspec, Capybara, HTML, CSS, Heroku | 10-day project in a group of 6 |
 | **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account developed via TDD. | Ruby, Rspec, Rubocop | 2-day solo project with coach feedback and refactoring |
@@ -40,6 +40,9 @@ The bootcamp has enabled me to switch from a Facilitator to a Maker. Driven by c
 
 
 ## Skills
+
+#### Mission-driven 
+Founding member of the Gallery Climate Coalition charity, formed in 2020 during lockdown to develop a meaningful and industry-specific response to the growing climate crisis. Conducted research and attended board-meetings to deliver [online resources](https://galleryclimatecoalition.org/) including a carbon-calculator specific to the art world, enabling businesses to conduct a yearly carbon report and thus reduce the amount of carbon they use by 50% by 2030. 
 
 
 
@@ -61,7 +64,7 @@ _Exhibitions Manager_
 _Curatorial Internship_
 
 - Awarded an internship at MoMA PS1's curatorial department, working with international artists on exhibitions and events 
-- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environemnt and working in a large team, using my initiative and getting involved.
+- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environemnt and working in a large team, using my initiative and getting involved
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
@@ -78,7 +81,7 @@ _Gallery Co-ordinater_
 ## Education
 
 #### Makers Academy (July to November 2021)
-- Enjoyed pair programming, communicating effectively and solving problems effeciently
+- Pair programming, communicating effectively and solving problems effeciently
 - OOP, TDD, MVC, SOLID
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -105,5 +108,5 @@ _Gallery Co-ordinater_
 
 ## Interests
 
-* A sociable person, I have a keen interest in art, culture and love going to museums and exhibitions
+* A sociable person, I have a keen interest in art, culture and love going to museums and exhibitions to learn more about the world and challenge my perspective
 * Enjoy playing football in the team I started with friends, as well as gardening and being outside
