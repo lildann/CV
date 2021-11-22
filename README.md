@@ -21,20 +21,22 @@
 
 </div>
 
-I am an organised and creative full-stack Junior Developer. I love problem-solving and analysing traditions and formats to make them more efficient and productive. In November 2021 I graduated from [Makers Academy](#projects).
+I am an organised and creative full-stack Junior Developer. I love problem-solving and analysing traditional structures and formats to make them more efficient and productive. In November 2021 I graduated from [Makers Academy](#projects).
 
-I have worked in the contemporary art world for the last decade as an Exhibitions Manager, in galleries and museums in Berlin, New York and London. This career has let me work with many different people on exciting large-scale projects, facilitating artists, and delivering exhibitions within tight deadlines. Driven by curiosity, possibility, and a desire to keep learning, I am looking for a role where I can extend my programming knowledge and gain business development experience, while contributing to well-designed, useful tech.
+Before learning to code, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people on exciting large-scale projects, managing the delivery and organisation of ambitious exhibitions within hard deadlines. 
+
+The bootcamp has enabled me to switch from a Facilitator to a Maker. Driven by curiosity, possibility, and a desire to keep learning, I am looking for a role where I can extend my programming knowledge and gain business development experience, while contributing to well-designed, useful tech that can make a difference to everyday life.
 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp to make football more accessible to everyone outside of its traditional audience | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS|
-| **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to store notes | Vanilla JavaScript, Emoji API, HTML, CSS, custom-built testing framework in JS from scratch |
-| **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/) | Ruby on Rails, Rspec, Capybara, HTML, CSS, Heroku |
-| **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | An IRB program via TDD | Ruby, Rspec, Rubocop |
-| **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order. Integrated with Twilio API to send confirmation texts. Solo project completed in two days. | Ruby, Rspec, Rubocop |
+| Name                         | Description       | Tech              | Timeframe |
+| ---------------------------- | ----------------- | ----------------- | ----------|
+| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp to make football more accessible to everyone outside of its traditional audience. | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS| 10-day final project at Makers in group of 4|
+| **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to write and store notes. | Vanilla JavaScript, Emoji API, HTML, CSS, custom-built testing framework in JS from scratch | 5-day project in a group of 3 |
+| **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/). | Ruby on Rails, Rspec, Capybara, HTML, CSS, Heroku | 10-day project in a group of 6 |
+| **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account developed via TDD. | Ruby, Rspec, Rubocop | 2-day solo project with coach feedback and refactoring |
+| **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order. Integrated with Twilio API to send confirmation texts. S| Ruby, Rspec, Rubocop | 2-day solo project |
 
 
 ## Skills
@@ -46,20 +48,20 @@ I have worked in the contemporary art world for the last decade as an Exhibition
 **Sadie Coles HQ, London** (January 2015 to May 2021)  
 _Exhibitions Manager_
 
-- Problem solving: calm and resourceful in the face of setbacks, a lateral thinker
+- Problem solving: calm and resourceful in the face of operational setbacks, a lateral thinker
 - Team player: managed inter-departmental organisation and exhibition meetings
 - Communicator: ensuring information is shared and discussed
 - Practical planner: logistics, timelines, budget management
 - People person: Artist liaison and external production contract negotiator
-- Big-picture perspective: ambitious on-site and off-site projects, end-goal focused 
+- Big-picture perspective: ambitious on-site and off-site projects, goal-focused 
 - Adaptable: flexible with changes, new systems and better lines of communication 
-- Data-driven: Website maintenance and analytics, database cataloguin
+- Data-driven: Website maintenance and analytics, precise database cataloguing
 
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
 
 - Awarded an internship at MoMA PS1's curatorial department, working with international artists on exhibitions and events 
-- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environemnt and working in a large team, using my initative and getting stuck in.
+- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environemnt and working in a large team, using my initiative and getting involved.
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
@@ -81,7 +83,7 @@ _Gallery Co-ordinater_
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-- Postgresql, Active Record
+- PostgreSQL, Active Record
 
 #### Building AI, University of Helsinki and Reaktor (June 2021)
 
