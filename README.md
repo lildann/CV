@@ -32,7 +32,7 @@ The bootcamp has enabled me to switch from a Facilitator to a Maker. Driven by c
 
 | Name                         | Description       | Tech              | Timeframe |
 | ---------------------------- | ----------------- | ----------------- | ----------|
-| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make finding and playing football games more accessible to everyone outside of its traditional audience | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS| 10-day final project at Makers in group of 4|
+| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make finding and playing football games more accessible to everyone outside of its traditional audience | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS| 10-day final project at Makers in a group of 4|
 | **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to write and store notes. | Vanilla JavaScript, Emoji API, HTML, CSS, custom-built testing framework in JS from scratch | 5-day project in a group of 3 |
 | **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/). | Ruby on Rails, Rspec, Capybara, HTML, CSS, Heroku | 10-day project in a group of 6 |
 | **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account developed via TDD. | Ruby, Rspec, Rubocop | 2-day solo project with coach feedback and refactoring |
@@ -44,6 +44,38 @@ The bootcamp has enabled me to switch from a Facilitator to a Maker. Driven by c
 #### Mission-driven 
 Founding member of the Gallery Climate Coalition charity, formed in 2020 during lockdown to develop a meaningful and industry-specific response to the growing climate crisis. Conducted research and attended board-meetings to deliver [online resources](https://galleryclimatecoalition.org/) including a carbon-calculator specific to the art world, enabling businesses to conduct a yearly carbon report and thus reduce the amount of carbon they use by 50% by 2030. 
 
+
+## Education
+
+#### Makers Academy (July to November 2021)
+
+*16 week coding bootcamp which focuses on a number of principles and technologies:*
+- Pair programming and communicating effectively 
+- OOP, TDD, MVC, SOLID
+- Agile process, XP values
+- Ruby, Rails, JavaScript, Rspec, Capybara, Jasmine, PostgreSQL, Active Record
+
+
+#### Building AI, University of Helsinki and Reaktor (June 2021)
+
+- Intermediate Coding Certificate in Python
+
+
+#### University of Sussex (October 2008 to June 2011)
+
+- English Literature and History of Art Bachelor of Arts (BA): 2.1
+- Arts and Culture Editor, University Magazine
+
+
+#### Central Saint Martins (September 2007 to May 2008)
+
+- Foundation Diploma in Art and Design: Distinction
+
+
+#### Secondary School (September 2000 to May 2007)
+
+- A levels in Art, English Literature, Psychology all at A Grade
+- 11 GCSEs 8 subjects at A*, 3 subjects at A
 
 
 ## Experience
@@ -77,34 +109,6 @@ _Gallery Co-ordinater_
 
 - All-rounder: assisted in the organisation of the gallery’s exhibitions, fairs, projects, and artists’ books, and updated the gallery's archive database, website, press and publications blog,
 
-
-## Education
-
-#### Makers Academy (July to November 2021)
-- Pair programming, communicating effectively and solving problems effeciently
-- OOP, TDD, MVC, SOLID
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- PostgreSQL, Active Record
-
-#### Building AI, University of Helsinki and Reaktor (June 2021)
-
-- Intermediate Coding Certificate in Python
-
-#### University of Sussex (October 2008 to June 2011)
-
-- English Literature and History of Art Bachelor of Arts (BA): 2.1
-- Arts and Culture Editor, University Magazine
-
-#### Central Saint Martins (September 2007 to May 2008)
-
-- Foundation Diploma in Art and Design: Distinction
-
-#### Secondary School (September 2000 to May 2007)
-
-- 3 A levels (Art: A, English Literature: A, Psychology: A)
-- 11 GCSEs (8 subjects at A*, 3 subjects at A)
 
 ## Interests
 
