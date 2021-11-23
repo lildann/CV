@@ -62,7 +62,7 @@ With the introduction of JavaScript in week 10 of the course, I initially strugg
 ## Education
 
 **Makers Academy** (July to November 2021)
-*16 week coding bootcamp which focuses on a number of principles and technologies:*
+- *16 week coding bootcamp which focuses on a number of principles and technologies:*
 - Pair programming and communicating effectively 
 - OOP, TDD, MVC, Domain Modelling, SOLID principles
 - Agile process, XP values
@@ -70,7 +70,7 @@ With the introduction of JavaScript in week 10 of the course, I initially strugg
 
 
 **Building AI, University of Helsinki and Reaktor** (June 2021)
-- Building AI is an online course teaching algorithms that make creating AI methods possible
+- Online algorithm course focused on AI methods
 - Completed the Intermediate Coding Certificate in Python
 
 
