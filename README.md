@@ -62,7 +62,8 @@ With the introduction of JavaScript in week 10 of the course, I initially strugg
 ## Education
 
 **Makers Academy** (July to November 2021)
-- *16 week coding bootcamp which focuses on a number of principles and technologies:*
+_16 week coding bootcamp which focuses on a number of principles and technologies:_
+
 - Pair programming and communicating effectively, receiving and giving feedback 
 - OOP, TDD, MVC, Domain Modelling, SOLID principles
 - Agile process, XP values
