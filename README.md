@@ -23,7 +23,7 @@
 
 I am an organised and creative full-stack Junior Developer. I love problem-solving and analysing traditional structures and formats to make them more efficient and productive. In November 2021 I graduated from [Makers Academy](#projects).
 
-Before Makers, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people facilitating exciting, large-scale projects, and managing the delivery and organisation of ambitious exhibitions within hard deadlines. 
+Before Makers, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people facilitating ambitious large-scale projects, and managing the delivery and organisation of exhibitions within hard deadlines. 
 
 The bootcamp has enabled me to switch from a facilitator to a maker. Driven by curiosity, possibility, and a desire to keep learning, I am looking for a role where I can extend my programming knowledge and gain business development experience, while contributing to well-designed, useful tech that can make a difference to everyday life.
 
@@ -63,10 +63,13 @@ With the introduction of JavaScript in week 10 of the course, I initially strugg
 
 **Makers Academy** (July to November 2021)
 - *16 week coding bootcamp which focuses on a number of principles and technologies:*
-- Pair programming and communicating effectively 
+- Pair programming and communicating effectively, receiving and giving feedback 
 - OOP, TDD, MVC, Domain Modelling, SOLID principles
 - Agile process, XP values
-- Ruby, Rails, JavaScript, Rspec, Capybara, Jasmine, PostgreSQL
+- Languages: Ruby, JavaScript, CSS, SASS, HTML, SQL
+- Frameworks: Rails, Sinatra
+- Testing: Rspec, Capybara, Jasmine 
+- DBMS: PostgreSQL, TablePlus
 
 
 **Building AI, University of Helsinki and Reaktor** (June 2021)
