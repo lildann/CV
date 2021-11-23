@@ -51,12 +51,17 @@ In work and in my learning, I am motivated by solutions that can make a differen
 #### Communication + Connection 
 As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships across departments was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and running agenda-focused meetings. 
 
-Since finishing the course at Makers, I have become a mentor to three students. Mentorship schemes are a brilliant way to make authentic connections within a new industry, and I've found it to be a rewarding experience in giving advice, encouragement and perspective.  
+Since finishing the course at Makers, I have become a mentor to three students. Mentorship schemes are a brilliant way to make authentic connections within a new industry, and I've found it to be a rewarding experience in giving advice, encouragement and perspective to fully embrace the nature of the course.  
+
+#### Time Management
+I previously worked for an arts book publisher in Berlin, and proofread many non-fiction texts in layout stages - this required a good eye for detail, and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
+
+With the introduction of JavaScript in week 10 of the course, I initially struggled with self-led learning, feeling overwhemed at the material to cover and where to start. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
 
 
 ## Education
 
-#### Makers Academy (July to November 2021)
+**Makers Academy** (July to November 2021)
 *16 week coding bootcamp which focuses on a number of principles and technologies:*
 - Pair programming and communicating effectively 
 - OOP, TDD, MVC, Domain Modelling, SOLID principles
@@ -64,21 +69,21 @@ Since finishing the course at Makers, I have become a mentor to three students. 
 - Ruby, Rails, JavaScript, Rspec, Capybara, Jasmine, PostgreSQL
 
 
-#### Building AI, University of Helsinki and Reaktor (June 2021)
+**Building AI, University of Helsinki and Reaktor** (June 2021)
 - Building AI is an online course teaching algorithms that make creating AI methods possible
 - Completed the Intermediate Coding Certificate in Python
 
 
-#### University of Sussex (October 2008 to June 2011)
+**University of Sussex** (October 2008 to June 2011)
 - English Literature and History of Art, Bachelor of Arts: 2.1
 - Arts and Culture Editor, University Magazine (2010 - 2011)
 
 
-#### Central Saint Martins (September 2007 to May 2008)
+**Central Saint Martins** (September 2007 to May 2008)
 - Foundation Diploma in Art and Design: Distinction
 
 
-#### Secondary School (September 2000 to May 2007)
+**Secondary School** (September 2000 to May 2007)
 - A levels in Art (A), English Literature (A), Psychology (A)
 - 11 GCSEs: 8 subjects at A*, 3 subjects at A
 
