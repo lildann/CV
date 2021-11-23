@@ -32,13 +32,13 @@ The bootcamp has enabled me to switch from a facilitator to a maker. Driven by c
 
 The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on my [Github](https://github.com/lildann/), but here are a few select projects to demonstrate what I learnt during the course:
 
-| Name                         | Description       | Tech              | Timeframe |
+| Name                         | Description       | Timeframe              | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
-| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make organising and playing football games more accessible to everyone outside of its traditional audience. | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS| 10-day final project at Makers in a group of 4|
-| **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to write and store notes. | Vanilla JavaScript, Emoji API, HTML, CSS, testing framework custom-built in JavaScriipt from scratch | 5-day project in a group of 3 |
-| **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/). | Ruby on Rails, Rspec, Capybara, HTML, CSS, Heroku | 10-day project in a group of 6 |
-| **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account. | Ruby, Rspec, Rubocop | 2-day solo project | 
-| **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order. Integrated with Twilio API to send confirmation texts. | Ruby, Rspec, Rubocop | 2-day solo project |
+| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make organising and playing football games more accessible to everyone outside of its traditional audience. | 10-day final project in a group of 4 | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS |
+| **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to write and store notes. | 5-day project in a group of 3 | vanilla JavaScript, RESTful API, HTML, CSS, testing framework custom-built in JavaScript from scratch |
+| **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/). | 10-day project in a group of 6 | Ruby on Rails, Rspec, Capybara, HTML, CSS, Heroku |
+| **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account. | 2-day solo project | Ruby, Rspec, Rubocop | 
+| **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order. Integrated with Twilio API to send confirmation texts. | 2-day solo project | Ruby, Rspec, Rubocop |
 
 
 ## Skills
@@ -46,12 +46,12 @@ The Makers course focused on pair programming, test driven development, agile pr
 #### Mission-driven 
 As a founding member of the Gallery Climate Coalition - a charity formed during lockdown to develop a meaningful and industry-specific response to the growing climate crisis - I conducted research and attended board-meetings to deliver this [online resource](https://galleryclimatecoalition.org/) which includes a carbon-calculator tailored to the art world. This has enabled galleries to conduct a yearly carbon report and thus help them reduce the amount of carbon they use by 50% by 2030. It kickstarted my interest in how tech can solve problems. 
 
-In work and in my learning, I am motivated by solutions that can make a difference in the world. My idea for a community-focused football app was chosen and developed for the final engineering project at Makers. Seeing [KickAbout](https://github.com/lildann/kickabout) take shape from identifying a gap in the market, to being built into an online platform was really exciting. I believe the possibilities of technology can be transformative. The bigger the problem, the more inventive the solutions. My experience working in creative industries gives me a unique perspective on the challenges and needs in daily life that technology can fix and fulfil. 
+In work and in my learning, I am motivated by solutions that can make a difference in the world. My idea for a community-focused football app was chosen and developed for the final engineering project at Makers. Seeing [KickAbout](https://github.com/lildann/kickabout) take shape from identifying a gap in the market, to being built into an online platform was really exciting. I believe my experience working in creative industries gives me a unique perspective in approaching problems that coding can solve. 
 
 #### Communication + Connection 
 As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong relationships across departments was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and running agenda-focused meetings. 
 
-Since finishing the course at Makers, I have become a mentor to three students. Mentorship schemes are a brilliant way to make authentic connections in any industry, and I've found it to be a rewarding experience in giving advice, encouragement and perspective.  
+Since finishing the course at Makers, I have become a mentor to three students. Mentorship schemes are a brilliant way to make authentic connections within a new industry, and I've found it to be a rewarding experience in giving advice, encouragement and perspective.  
 
 
 ## Education
@@ -59,9 +59,9 @@ Since finishing the course at Makers, I have become a mentor to three students. 
 #### Makers Academy (July to November 2021)
 *16 week coding bootcamp which focuses on a number of principles and technologies:*
 - Pair programming and communicating effectively 
-- OOP, TDD, MVC, SOLID
+- OOP, TDD, MVC, Domain Modelling, SOLID principles
 - Agile process, XP values
-- Ruby, Rails, JavaScript, Rspec, Capybara, Jasmine, PostgreSQL, Active Record
+- Ruby, Rails, JavaScript, Rspec, Capybara, Jasmine, PostgreSQL
 
 
 #### Building AI, University of Helsinki and Reaktor (June 2021)
