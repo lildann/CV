@@ -21,16 +21,16 @@
 
 </div>
 
-I am an organised and creative full-stack Junior Developer. I love problem-solving and analysing traditional structures and formats to make them more efficient and prodcutive. In November 2021 I graduated from [Makers Academy](#projects), proactively committed to self-led life-long learning. 
+I am an organised and creative full-stack Junior Developer. I love problem-solving and analysing traditional structures and formats to make them more efficient and productive. In November 2021 I graduated from [Makers Academy](#projects).
 
-Before Makers, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people on exciting large-scale projects, managing the delivery and organisation of ambitious exhibitions within hard deadlines. 
+I'm a proactive and driven person. Before Makers, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people on exciting large-scale projects, managing the delivery and organisation of ambitious exhibitions within hard deadlines. 
 
 The bootcamp has enabled me to switch from a facilitator to a maker. Driven by curiosity, possibility, and a desire to keep learning, I am looking for a role where I can extend my programming knowledge and gain business development experience, while contributing to well-designed, useful tech that can make a difference to everyday life.
 
 
 ## Projects
 
-The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on my [Github](https://github.com/lildann/), but here are a few select projects to demonstrate what I learnt during the course:
+The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann/), but here are a few projects to demonstrate what I learnt during the course:
 
 | Name                         | Description       | Timeframe              | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
@@ -49,7 +49,7 @@ As a founding member of the Gallery Climate Coalition - a charity formed during 
 In work and in my learning, I am motivated by solutions that can make a difference in the world. My idea for a community-focused football app was chosen and developed for the final engineering project at Makers. Seeing [KickAbout](https://github.com/lildann/kickabout) take shape from identifying a gap in the market, to being built into an online platform was really exciting. I believe my experience working in creative industries gives me a unique perspective in approaching problems that coding can solve. 
 
 #### Communication + Connection 
-As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong relationships across departments was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and running agenda-focused meetings. 
+As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships across departments was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and running agenda-focused meetings. 
 
 Since finishing the course at Makers, I have become a mentor to three students. Mentorship schemes are a brilliant way to make authentic connections within a new industry, and I've found it to be a rewarding experience in giving advice, encouragement and perspective.  
 
@@ -65,8 +65,8 @@ Since finishing the course at Makers, I have become a mentor to three students. 
 
 
 #### Building AI, University of Helsinki and Reaktor (June 2021)
-- An online course designed to encourage as broad a group of people as possible to learn what AI is, what can (and can’t) be done with AI, and how to start creating AI methods
-- Intermediate Coding Certificate in Python
+- Building AI is an online course teaching algorithms that make creating AI methods possible
+- Completed the Intermediate Coding Certificate in Python
 
 
 #### University of Sussex (October 2008 to June 2011)
