@@ -23,7 +23,7 @@
 
 I am an organised and creative full-stack Junior Developer. I love problem-solving and analysing traditional structures and formats to make them more efficient and productive. In November 2021 I graduated from [Makers Academy](#projects).
 
-I'm a proactive and driven person. Before Makers, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people on exciting large-scale projects, managing the delivery and organisation of ambitious exhibitions within hard deadlines. 
+Before Makers, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people facilitating exciting, large-scale projects, and managing the delivery and organisation of ambitious exhibitions within hard deadlines. 
 
 The bootcamp has enabled me to switch from a facilitator to a maker. Driven by curiosity, possibility, and a desire to keep learning, I am looking for a role where I can extend my programming knowledge and gain business development experience, while contributing to well-designed, useful tech that can make a difference to everyday life.
 
@@ -51,7 +51,7 @@ In work and in my learning, I am motivated by solutions that can make a differen
 #### Communication + Connection 
 As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships across departments was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and running agenda-focused meetings. 
 
-Since finishing the course at Makers, I have become a mentor to three students. Mentorship schemes are a brilliant way to make authentic connections within a new industry, and I've found it to be a rewarding experience in giving advice, encouragement and perspective to fully embrace the nature of the course.  
+Since finishing the course at Makers, I have become a mentor to three students. I've found it to be a rewarding experience in making authentic connections and giving advice, encouragement and perspective to fully embrace the nature of the course.  
 
 #### Time Management
 I previously worked for an arts book publisher in Berlin, and proofread many non-fiction texts in layout stages - this required a good eye for detail, and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
