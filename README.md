@@ -12,119 +12,112 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></p>
 
 <div align="center">
-
+  
+[Tools](#tools) |
 [Projects](#projects) |
 [Skills](#skills) |
 [Education](#education) |
 [Experience](#experience) |
-[Interests](#interests) |
+[Interests](#interests) 
 
 </div>
 
-I am an organised and creative full-stack Junior Developer. I love problem-solving and analysing traditional structures and formats to make them more efficient and productive. In November 2021 I graduated from [Makers Academy](#projects).
+## About
 
-Before Makers, I worked in the contemporary art world in galleries and museums in Berlin, New York and London. This career let me work with many different people facilitating ambitious large-scale projects, and managing the delivery and organisation of exhibitions within hard deadlines. 
+I am a creative and organised full-stack developer. In November 2021 I graduated from [Makers Academy](#projects) software engineering bootcamp. My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London.
 
-The bootcamp has enabled me to switch from a facilitator to a maker. Driven by curiosity, possibility, and a desire to keep learning, I am looking for a role where I can extend my programming knowledge and gain business development experience, while contributing to well-designed, useful tech that can make a difference to everyday life.
+As an outcome of the pandemic, the art world moved online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
+
+The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. Motivated by the impact code can make on everyday life, I'm excited to work in an industry that can create solutions to the complex problems we currently face.
+
+
+## Tools
+
+**Languages**: Ruby | JavaScript | HTML | CSS | SASS | SQL <br>
+**Frameworks and Environments**: Rails | Sinatra | Node.js <br>
+**Testing**: RSpec | Capybara | Jasmine <br>
+**DBMS**: PostgreSQL | TablePlus <br>
+**Methodologies**: BDD | TDD | MVC | Domain Modelling | SOLID principles | Agile processes | XP values <br>
 
 
 ## Projects
 
-The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann/), but here are a few projects to demonstrate what I learnt during the course:
+The Makers course focused on pair programming, test driven development, Agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann?tab=repositories), but here are a few projects to demonstrate what I learnt:
 
-| Name                         | Description       | Timeframe              | Tech |
+| Project                      | Description       | Timeframe         | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
-| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make organising and playing football games more accessible to everyone outside of its traditional audience. | 10-day final project in a group of 4 | Ruby on Rails, Rspec, Capybara, PostgreSQL, HTML, SASS |
-| **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to write and store notes. | 5-day project in a group of 3 | vanilla JavaScript, RESTful API, HTML, CSS, testing framework custom-built in JavaScript from scratch |
-| **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/). | 10-day project in a group of 6 | Ruby on Rails, Rspec, Capybara, HTML, CSS, Heroku |
-| **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account. | 2-day solo project | Ruby, Rspec, Rubocop | 
-| **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order. Integrated with Twilio API to send confirmation texts. | 2-day solo project | Ruby, Rspec, Rubocop |
+| **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make organising and playing football games more accessible to everyone outside of its traditional audience. | 10-day final project in a group of 4 | Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, SASS |
+| **[Post It](https://lildann.github.io/notes_app/)** | A frontend single-page app to write and store notes. | 4-day project in a group of 3 | Vanilla JavaScript, RESTful API, HTML, CSS, custom-built testing framework in JavaScript |
+| **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/). | 10-day project in a group of 6 | Ruby on Rails, RSpec, Capybara, HTML, CSS, Heroku |
+| **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account. | 2-day solo project | Ruby, RSpec, Rubocop | 
+| **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order. Integrated with Twilio API to send confirmation texts. | 2-day solo project | Ruby, RSpec, Rubocop |
 
 
 ## Skills
 
 #### Mission-driven 
-As a founding member of the Gallery Climate Coalition - a charity formed during lockdown to develop a meaningful and industry-specific response to the growing climate crisis - I conducted research and attended board-meetings to deliver this [online resource](https://galleryclimatecoalition.org/) which includes a carbon-calculator tailored to the art world. This has enabled galleries to conduct a yearly carbon report and thus help them reduce the amount of carbon they use by 50% by 2030. It kickstarted my interest in how tech can solve problems. 
+As a founding member of the Gallery Climate Coalition - a charity formed during lockdown to develop a meaningful and industry-specific response to the growing climate crisis - I conducted research and attended board-meetings to deliver this [online resource](https://galleryclimatecoalition.org/) which includes a carbon-calculator tailored to the art world. This has enabled galleries to conduct a yearly carbon report and thus help them reduce the amount of carbon they use by 50% by 2030. It sparked my interest in how tech can solve problems.
 
-In work and in my learning, I am motivated by solutions that can make a difference in the world. My idea for a community-focused football app was chosen and developed for the final engineering project at Makers. Seeing [KickAbout](https://github.com/lildann/kickabout) take shape from identifying a gap in the market, to being built into an online platform was really exciting. I believe my experience working in creative industries gives me a unique perspective in approaching problems that coding can solve. 
+In work and while learning, I am motivated by solutions that can make a difference. My idea for a community-focused football app (designed for players outside of the sport's traditionally male audience) was chosen and developed for the final engineering project at Makers. Seeing [KickAbout](https://github.com/lildann/kickabout) take shape from identifying a gap in the market, to being built into an online platform was really exciting. My experience working in creative industries gives me a unique perspective in approaching problems that coding can solve. 
 
-#### Communication + Connection 
-As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships across departments was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and running agenda-focused meetings. 
 
-Since finishing the course at Makers, I have become a mentor to three students. I've found it to be a rewarding experience in making authentic connections and giving advice, encouragement and perspective to fully embrace the nature of the course.  
+#### Planning and Communication 
+As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships (internally across departments and externally with artists, suppliers, and clients) was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and leading agenda-focused meetings, and bringing people together. 
 
-#### Time Management
-I previously worked for an arts book publisher in Berlin, and proofread many non-fiction texts in layout stages - this required a good eye for detail, and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
+For each of the group projects at Makers, the time we spent in the planning and design stages helped communication and productivity, keeping the team on track and completing the Minimum Viable Product. Using Agile processes - such as daily stand-ups and retros - also helped with motivation and general wellbeing. Since finishing the course at Makers, I have become a mentor to three students. Entering a new industry, I appreciate that it can feel daunting, and aim to give advice, encouragement and perspective to fully embrace the intensity of the course.  
 
-With the introduction of JavaScript in week 10 of the course, I initially struggled with self-led learning, feeling overwhemed at the material to cover and where to start. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
+
+#### Time Management and Attention to Detail
+When working for an arts book publisher in Berlin, I proofread non-fiction texts in layout stages - this required a good eye for detail and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
+
+With the introduction of JavaScript in week 6 of the course, I initially struggled with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
+
+
+#### Problem Solving
+Working with artists to interpret their vision and plan projects requires an operational skillset, which considers logistical details while maintaining perspective on the timeline and end result. The gallery is known for launching emerging artists' careers with ambitious projects - as the artist liaison for Alvaro Barrington, I coordinated his [collaboration with Notting Hill Carnival](https://www.theartnewspaper.com/2019/09/27/throwing-open-the-gallery-doors-the-art-world-darlings-keeping-it-real) to decorate the Socaholic float with his paintings. 
+
+Interpreting a brief and building a web app from start to finish is a fundamental aspect of coding that I enjoy. My organised, clear-sighted approach helps in debugging when closing the loop and finding the root cause of blockers. Makers has left me feeling ready to learn new tech stacks and take on new challenges.
 
 
 ## Education
 
-**Makers Academy** (July to November 2021)  
-_16 week coding bootcamp which focuses on a number of principles and technologies:_
-
-- Pair programming and communicating effectively, receiving and giving feedback 
-- OOP, TDD, MVC, Domain Modelling, SOLID principles
-- Agile process, XP values
-- Languages: Ruby, JavaScript, CSS, SASS, HTML, SQL
-- Frameworks: Rails, Sinatra
-- Testing: Rspec, Capybara, Jasmine 
-- DBMS: PostgreSQL, TablePlus
-
-
-**Building AI, University of Helsinki and Reaktor** (June 2021)
-- Online algorithm course focused on AI methods
-- Completed the Intermediate Coding Certificate in Python
-
-
-**University of Sussex** (October 2008 to June 2011)
-- English Literature and History of Art, Bachelor of Arts: 2.1
-- Arts and Culture Editor, University Magazine (2010 - 2011)
-
-
-**Central Saint Martins** (September 2007 to May 2008)
-- Foundation Diploma in Art and Design: Distinction
-
-
-**Secondary School** (September 2000 to May 2007)
-- A levels in Art (A), English Literature (A), Psychology (A)
-- 11 GCSEs: 8 subjects at A*, 3 subjects at A
+2021 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br> 
+2021 | Building AI, Intermediate Coding Certificate in Python - **University of Helsinki and Reaktor** (online) <br>
+2011 | Bachelor of Arts: 2.1 English Literature and History of Art - **University of Sussex**, Brighton<br>
+2008 | Foundation Diploma in Art and Design: Distinction - **Central Saint Martins**, London<br>
+2007 | A Levels: Art: (A), English Literature: (A), Psychology: (A)<br>
+2005 | GCSEs: 8 subjects: (A*), 3 subjects: (A)<br>
 
 
 ## Experience
 
 **Sadie Coles HQ, London** (January 2015 to May 2021)  
 _Exhibitions Manager_
-
-- Problem solving: calm and resourceful when faced with the diverse range of challenges that arise during the planning, production and installation of exhibitions, a lateral thinker
-- Team player: managed inter-departmental organisation and exhibition meetings
-- Communicator: ensuring information is shared and discussed
-- Practical planner: logistics, timelines, budget management
-- People person: Artist liaison and external production contract negotiator
-- Big-picture perspective: ambitious on-site and off-site projects, goal-focused 
+- Problem Solving: calm and resourceful when faced with the diverse range of challenges that arise during the planning, production and installation of exhibitions
+- Team Player: managed inter-departmental exhibition meetings
+- Communicator: ensured information is shared and discussed, highlighting areas to troubleshoot
+- Planner: logistics, timelines, budget management
+- People Person: Artist liaison and external production contract negotiation
+- Big-Picture Perspective: ambitious on-site and off-site projects, goal-focused 
 - Adaptable: flexible with change, encourage new systems, technologies, tools to create better lines of communication 
-- Data-driven: Website maintenance and analytics, precise database cataloguing
+- Database Management: Website maintenance and analytics, precise cataloguing or artworks, costs, data
 
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
-
 - Awarded an internship at MoMA PS1's curatorial department, working with international artists on exhibitions and events 
-- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environemnt and working in a large team, using my initiative and getting involved
+- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environment and working in a large team, using my initiative and getting involved
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
-
-- Attention to detail: rigorous proofreading of art texts in layout stages
-- Time management: careful, precise editing while working to print deadlines
+- Attention to Detail: rigorous proofreading of art texts in layout stages
+- Time Management: careful, precise editing while working to print deadlines
 
 **ChertLuedde Galerie, Berlin** (March 2012 to August 2014)  
 _Gallery Co-ordinater_
-
-- All-rounder: assisted in the organisation of the gallery’s exhibitions, fairs, projects, and artists’ books, and updated the gallery's archive database, website, press and publications blog
+- All-Rounder: assisted in the organisation of the gallery’s exhibitions, art fairs, projects, and artists’ books, and updated the archive database, website, press and publications blog
 
 
 ## Interests
 
-* A sociable person, I have a keen interest in art, culture and love going to museums and exhibitions to learn more about the world and challenge my perspective
-* Enjoy playing football in the team I started with friends, as well as gardening and being outside
+* I have an enduring interest in art and culture, and love going to museums and exhibitions to learn more about the world and challenge my perspective, most recently [Paula Rego's](https://www.tate.org.uk/whats-on/tate-britain/exhibition/paula-rego) socio-political portraits at Tate Britain.
+* I enjoy playing football every week in the team I started with friends.
