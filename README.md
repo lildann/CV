@@ -3,12 +3,12 @@
 <a href="https://www.codewars.com/users/lildann" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="40" width="40"/></a></p>
 
 
-
+[Tech Experience](#tech-experience) |
 [Projects](#projects) |
 [Skills](#skills) |
+[Work Experience](#work-experience) |
 [Tech Stack](#tech-stack) |
 [Education](#education) |
-[Experience](#experience) |
 [Interests](#interests) 
 
 
@@ -21,17 +21,25 @@ As an outcome of the pandemic, the art world moved online - intriguingly, most o
 The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating with multiple stakeholders - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. At Makers, I've learnt processes in line with best industry practices - I take pride in clean, test-driven code and value accessibility and user experience. I'm motivated by the impact code can make on everyday life and I'm excited to work in an industry that can create solutions to the complex problems we currently face.
 
 
+## Tech Experience
+
+**Makers Academy, London** (July – November 2021)  
+- Focus on OOP, TDD, MVC, XP values, Agile and SOLID principles, Domain modelling
+- Pair programming daily for 3 months; EQ training to receive and give feedback, and communicate effectively
+- Collaborated in Agile teams using Git workflow, guided by XP values
+- Designed and built multiple test-driven web applications in Ruby and JavaScript, with the emphasis on self-led learning
+
 ## Projects
 
-The Makers course focused on pair programming, test driven development, Agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann?tab=repositories), but here are a few projects to demonstrate what I learnt:
+You can see my progression throughout the course on [Github](https://github.com/lildann?tab=repositories), but here are a few projects to demonstrate what I learnt:
 
 | Project                      | Description       | Timeframe         | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
 | **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make organising and playing football games more accessible to everyone outside of its traditional audience | 10-day final project in a group of 4 | Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, SASS |
-| **[Post It](https://github.com/lildann/notes_app)** | [A frontend single-page app](https://lildann.github.io/notes_app/) to write and store notes, live on GitHub Pages | 4-day project in a group of 3 | Vanilla JavaScript, RESTful API, HTML, CSS, custom-built testing framework in JavaScript |
 | **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/) | 10-day project in a group of 6 | Ruby on Rails, RSpec, Capybara, HTML, CSS, Heroku |
 | **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account | 2-day solo project | Ruby, RSpec, Rubocop | 
 | **[Rock Paper Scissor](https://github.com/lildann/rock-paper-scissor)** | Rock Paper Scissor game | solo-project | Ruby, Sinatra, RSpec, Capybara |
+| **[Post It](https://github.com/lildann/notes_app)** | [A frontend single-page app](https://lildann.github.io/notes_app/) to write and store notes, live on GitHub Pages | 4-day project in a group of 3 | Vanilla JavaScript, RESTful API, HTML, CSS, custom-built testing framework in JavaScript |
 | **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order, integrated with Twilio API to send confirmation texts | 2-day solo project | Ruby, RSpec, Rubocop |
 
 
@@ -70,19 +78,9 @@ Interpreting a brief and building an app from start to finish is a fundamental a
 **Methodologies**: BDD | TDD | MVC | Domain Modelling | SOLID principles | Agile processes | XP values <br>
 
 
-## Education
+## Work Experience
 
-2021 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br> 
-2021 | Building AI, Intermediate Coding Certificate in Python - **University of Helsinki and Reaktor** (online) <br>
-2011 | Bachelor of Arts: 2.1 English Literature and History of Art - **University of Sussex**, Brighton<br>
-2008 | Foundation Diploma in Art and Design: Distinction - **Central Saint Martins**, London<br>
-2007 | A Levels: Art: (A), English Literature: (A), Psychology: (A)<br>
-2005 | GCSEs: 8 subjects: (A*), 3 subjects: (A)<br>
-
-
-## Experience
-
-**Sadie Coles HQ, London** (January 2015 to May 2021)  
+**Sadie Coles HQ, London** (January 2015 – May 2021)  
 _Exhibitions Manager_
 - Problem Solving: calm and resourceful when faced with the diverse range of challenges that arise during the planning, production and installation of over 60 exhibitions
 - Team Player: managed inter-departmental exhibition meetings
@@ -93,19 +91,30 @@ _Exhibitions Manager_
 - Flexibility: encourage new systems, technologies and tools to create better lines of communication and efficiency 
 - Database Management: Website maintenance and analytics, precise cataloguing or artworks, costs, data
 
-**MoMA PS1, New York** (September to December 2014)  
+**MoMA PS1, New York** (September – December 2014)  
 _Curatorial Internship_
 - Driven: awarded competitive internship in the curatorial department, working with international artists on exhibitions
 - Adaptable: great experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environment and working in a large team, using my initiative and getting involved
 
-**Sternberg Press, Berlin** (July 2013 to August 2014)  
+**Sternberg Press, Berlin** (July 2013 – August 2014)  
 _Editorial Assistant_
 - Attention to Detail: rigorous proofreading of art texts in layout stages
 - Time Management: careful, precise editing while working to print deadlines
 
-**ChertLuedde Galerie, Berlin** (March 2012 to August 2014)  
+**ChertLuedde Galerie, Berlin** (March 2012 – August 2014)  
 _Gallery Co-ordinater_
 - All-Rounder: assisted in the organisation of the gallery’s exhibitions, art fairs, projects, and artists’ books, and updated the archive database, website, press and publications blog
+
+
+## Education
+
+2021 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br> 
+2021 | Responsive Web Design - **freecodecamp** (online) <br>
+2021 | Building AI, Intermediate Coding Certificate in Python - **University of Helsinki and Reaktor** (online) <br>
+2011 | Bachelor of Arts: 2.1 English Literature and History of Art - **University of Sussex**, Brighton<br>
+2008 | Foundation Diploma in Art and Design: Distinction - **Central Saint Martins**, London<br>
+2007 | A Levels: Art: (A), English Literature: (A), Psychology: (A)<br>
+2005 | GCSEs: 8 subjects: (A*), 3 subjects: (A)<br>
 
 
 ## Interests
