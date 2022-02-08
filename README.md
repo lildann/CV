@@ -35,6 +35,7 @@ You can see my progression throughout the course on [Github](https://github.com/
 
 | Project                      | Description       | Timeframe         | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
+| **[InFactuation](https://github.com/lildann/infactuation)** | An app to share and store interesting facts, with a user profile setup | solo-project | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML |
 | **[KickAbout](https://github.com/lildann/kickabout)** | A webapp designed to make organising and playing football games more accessible to everyone outside of its traditional audience | 10-day final project in a group of 4 | Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, SASS |
 | **[IOBook](https://github.com/lildann/iobook)** | A social networking webapp for programmers, [hosted on Heroku](https://iobook.herokuapp.com/) | 10-day project in a group of 6 | Ruby on Rails, RSpec, Capybara, HTML, CSS, Heroku |
 | **[Bank Tech Test](https://github.com/lildann/bank-tech-test)** | A Command Line app for a bank account | 2-day solo project | Ruby, RSpec, Rubocop | 
