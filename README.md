@@ -122,4 +122,4 @@ _Gallery Co-ordinater_
 
 * I have an enduring interest in art and culture, and love going to museums and exhibitions to learn more about the world and challenge my perspective, most recently [Paula Rego's](https://www.tate.org.uk/whats-on/tate-britain/exhibition/paula-rego) socio-political portraits at Tate Britain.
 * I enjoy playing football every week in the team I started with friends.
-* Codewars fanatic!
+* [Codewars](https://www.codewars.com/users/lildann) fanatic!
